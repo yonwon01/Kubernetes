@@ -9,4 +9,4 @@
     
     
 1) ibm cloud 에서 kubernetes 설치 (한달 프리티어 제공)
-![architecture]()
+![kubernetes_create1](https://github.com/yonwon01/Kubernetes/blob/master/kubernetes_create1.png)
