@@ -7,7 +7,7 @@
     * 어플리케이션 배포  
     
        
-1) ibm cloud(https://ibm.cloud.com) 에서 kubernetes 설치 
+1) ibm cloud(https://www.ibm.com/cloud/) 에서 kubernetes 설치 
   
   ![kuberntes-create1](https://github.com/yonwon01/Kubernetes/blob/master/kuberntes-create1.png)
     - 한달 Free Type 사용
